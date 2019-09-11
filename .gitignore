@@ -1,0 +1,24 @@
+.DS_Store
+node_modules/
+/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+build
+config
+dist
+node_modules
+NodeJS-192.5728.87
+public
+static
+.env.local
+.firebasesrc
+firebase.json
+package-lock.json
