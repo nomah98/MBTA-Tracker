@@ -1,6 +1,12 @@
 # mbtapp
 
-> mbta tracker
+> MBTA Tracker
+
+MBTA Tracker is a web app that displays the times of the next three trains for a given stop on the Orange, Red, and Green-E Lines. The project was built using Vue and is hosted via Firebase. 
+
+Working Link to project: https://mbtapp-bf611.firebaseapp.com/#/
+
+Please email noahmrochefort@gmail.com for any questions or suggestions.
 
 ## Build Setup
 
